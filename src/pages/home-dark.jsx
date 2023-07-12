@@ -154,9 +154,9 @@ const HomeDark = () => {
                 data-aos-duration="1200"
               >
                 {/*  Articles Starts  */}
-                <div className="row pb-50">
+                {/* <div className="row pb-50">
                   <Blog />
-                </div>
+                </div> */}
                 {/* Articles Ends */}
               </div>
             </TabPanel>
