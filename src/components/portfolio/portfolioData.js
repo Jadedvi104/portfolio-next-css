@@ -50,10 +50,10 @@ const PortfolioData = [
     modalDetails: [
       {
         project: "Website",
-        client: "Themeforest",
-        language: " HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com",
+        client: "-",
+        language: " HTML, CSS, Reactjs, Nextjs",
+        preview: "www.bitmonsternft.com",
+        link: "https://www.bitmonsternft.com",
       },
     ],
   },
@@ -105,54 +105,54 @@ const PortfolioData = [
       },
     ],
   },
-  {
-    id: 7,
-    type: "facebook project",
-    image: Image7,
-    tag: ["logo"],
-    delayAnimation: "0",
-    modalDetails: [
-      {
-        project: "Website",
-        client: "Facebook",
-        language: "HTML, CSS, Javascript",
-        preview: "www.facebook.com",
-        link: "https://www.facebook.com/ibthemes",
-      },
-    ],
-  },
-  {
-    id: 8,
-    type: "dribble project",
-    image: Image8,
-    tag: ["graphic design"],
-    delayAnimation: "100",
-    modalDetails: [
-      {
-        project: "Website",
-        client: "Dribbble",
-        language: "HTML, CSS, Javascript",
-        preview: "www.dribbble.com",
-        link: "https://dribbble.com/ib-themes",
-      },
-    ],
-  },
-  {
-    id: 9,
-    type: "behence project",
-    image: Image9,
-    tag: ["graphic design", "mockup"],
-    delayAnimation: "200",
-    modalDetails: [
-      {
-        project: "Website",
-        client: "Behance",
-        language: "HTML, CSS, Javascript",
-        preview: "www.behance.com",
-        link: "https://www.behance.net/ib-themes",
-      },
-    ],
-  },
+  // {
+  //   id: 7,
+  //   type: "facebook project",
+  //   image: Image7,
+  //   tag: ["logo"],
+  //   delayAnimation: "0",
+  //   modalDetails: [
+  //     {
+  //       project: "Website",
+  //       client: "Facebook",
+  //       language: "HTML, CSS, Javascript",
+  //       preview: "www.facebook.com",
+  //       link: "https://www.facebook.com/ibthemes",
+  //     },
+  //   ],
+  // },
+  // {
+  //   id: 8,
+  //   type: "dribble project",
+  //   image: Image8,
+  //   tag: ["graphic design"],
+  //   delayAnimation: "100",
+  //   modalDetails: [
+  //     {
+  //       project: "Website",
+  //       client: "Dribbble",
+  //       language: "HTML, CSS, Javascript",
+  //       preview: "www.dribbble.com",
+  //       link: "https://dribbble.com/ib-themes",
+  //     },
+  //   ],
+  // },
+  // {
+  //   id: 9,
+  //   type: "behence project",
+  //   image: Image9,
+  //   tag: ["graphic design", "mockup"],
+  //   delayAnimation: "200",
+  //   modalDetails: [
+  //     {
+  //       project: "Website",
+  //       client: "Behance",
+  //       language: "HTML, CSS, Javascript",
+  //       preview: "www.behance.com",
+  //       link: "https://www.behance.net/ib-themes",
+  //     },
+  //   ],
+  // },
 ];
 
 export default PortfolioData;
