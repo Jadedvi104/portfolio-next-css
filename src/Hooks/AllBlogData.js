@@ -1,6 +1,6 @@
 import { useState } from "react";
 import img1 from "../../public/assets/img/blog/blog-post-1.jpg";
-import img2 from "../../public/assets/img/blog/blog-post-2.jpg";
+import img2 from "../../public/assets/img/blog/virtual-dom.png";
 import img3 from "../../public/assets/img/blog/blog-post-3.jpg";
 import img4 from "../../public/assets/img/blog/blog-post-4.jpg";
 import img5 from "../../public/assets/img/blog/blog-post-5.jpg";
@@ -23,22 +23,22 @@ const AllBlogData = () => {
       // description4:
       //   "Riosum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
-    // {
-    //   id: 2,
-    //   img: img2,
-    //   title: "Top 10 Toolkits for Deep Learning in 2022",
-    //   commentor: "Santhan ",
-    //   date: "14 January 2022",
-    //   tag: `wordpress, business, economy, design`,
-    //   description1:
-    //     "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    //   description2:
-    //     "If you’ve been waiting for an invitation, this calligraphy is it. Commissioned by Notebook hand-lettered design for a poster. Quote is Notebook Building 8 VP’s Regina Dugan—and mine. ",
-    //   description3:
-    //     "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
-    //   description4:
-    //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    // },
+    {
+      id: 2,
+      img: img2,
+      title: "How the React virtual DOM work",
+      commentor: "Santhan ",
+      date: "31 May 2024",
+      tag: `react, frontend, javascript`,
+      description1:
+        "The React Virtual DOM is a concept central to React’s performance and efficiency. The Virtual DOM is a lightweight, in-memory representation of the actual DOM elements. React uses the Virtual DOM to optimize and manage updates to the real DOM in a more efficient manner.", 
+      description2:
+        "Scenario: You have a to-do list application where users can add new tasks, mark tasks as completed, and delete tasks. Each of these interactions updates the user interface.",
+      description3:
+        "https://medium.com/p/06a5089719b7",
+      // description4:
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    },
     // {
     //   id: 3,
     //   img: img3,

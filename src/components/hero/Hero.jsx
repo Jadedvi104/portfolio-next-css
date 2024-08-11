@@ -10,7 +10,7 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "jirayu nakplien",
   heroDesignation: "web developer",
-  heroDescriptions: `I'm a Blockchain Developer dedicated to writing clean, efficient code that solves real-world problems. I'm passionate about building innovative solutions that make a positive impact.`,
+  heroDescriptions: `I'm a Web + Blockchain Developer dedicated to writing clean, efficient code that solves real-world problems. I'm passionate about building innovative solutions that make a positive impact.`,
   heroBtn: "more about me",
 };
 
