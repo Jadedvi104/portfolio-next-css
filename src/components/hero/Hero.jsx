@@ -10,10 +10,9 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "jirayu nakplien",
   heroDesignation: "web developer",
-  heroDescriptions: `I'm a Asian based front-end & back‑end developer focused on
-  crafting clean & user‑friendly experiences, I am passionate about
-  building excellent software that improves the lives of those
-  around me.`,
+  heroDescriptions: `I'm an Asian based Blockchain Developer focused on
+  crafting clean, well-structured and robust code, I am passionate about
+  building excellent software that improves the lives of others.`,
   heroBtn: "more about me",
 };
 

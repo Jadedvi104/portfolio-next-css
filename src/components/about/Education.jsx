@@ -2,14 +2,14 @@ import React from "react";
 
 const educationContent = [
   {
-    year: "2021-2025",
-    degree: "Computer Science",
+    year: "",
+    degree: "BSc. Computer Science",
     institute: "sukhothai thammathirat open university",
     details: `Major in Computer Science; Minors in Web and
     Mobile technology`,
   },
   {
-    year: "2016",
+    year: "",
     degree: "Intensive English Course",
     institute: "NZLC, Auckland, NZ",
     details: `I have finished in upper-intermediate levels which is almost the highest level in the school.`,

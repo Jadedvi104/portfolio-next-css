@@ -2,7 +2,7 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "   2019 - 2020",
+    year: "2019 - 2020",
     position: "Senior Marketing Specialist",
     compnayName: "Planforfit",
     details: `Responsibilities for Marketing Campaign and Lead a Marketing Team`,
@@ -24,8 +24,17 @@ const experienceContent = [
     reported by clients.`,
   },
   {
-    year: "AUG 2022 - Current",
-    position: "Full-stack Developer",
+    year: "AUG 2022 - DEC 2023",
+    position: "Blockchain Developer",
+    compnayName: "Echoplus Co., Ltd.",
+    details: `Responsibility: Design, implement new features and develop web
+    applications for company's projects using Solidity, Ethersjs, ReactJs and
+    Nestjs. Building, testing, and maintaining web application and
+    performing comprehensive quality assurance testing`,
+  },
+  {
+    year: "JAN 2024 - JUNE 2024",
+    position: "Blockchain Developer",
     compnayName: "Echoplus Co., Ltd.",
     details: `Responsibility: Design, implement new features and develop web
     applications for company's projects using Solidity, Ethersjs, ReactJs and
