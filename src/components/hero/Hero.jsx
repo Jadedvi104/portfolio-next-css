@@ -10,9 +10,7 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "jirayu nakplien",
   heroDesignation: "web developer",
-  heroDescriptions: `I'm an Asian based Blockchain Developer focused on
-  crafting clean, well-structured and robust code, I am passionate about
-  building excellent software that improves the lives of others.`,
+  heroDescriptions: `I'm a Blockchain Developer dedicated to writing clean, efficient code that solves real-world problems. I'm passionate about building innovative solutions that make a positive impact.`,
   heroBtn: "more about me",
 };
 
