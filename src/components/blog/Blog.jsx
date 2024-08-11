@@ -101,8 +101,7 @@ const Blog = () => {
                         <p>{singleData?.description2}</p>
                       </div>
                       {/* <p>{singleData?.description3}</p> */}
-                      <a href={singleData?.description3} target="_blank">Read More!</a>
-
+                      <a href={singleData?.description3} target="_blank" rel="noreferrer">Read More!</a>
                       <p>{singleData?.description4}</p>
                     </div>
                     {/* Article Content Ends */}
