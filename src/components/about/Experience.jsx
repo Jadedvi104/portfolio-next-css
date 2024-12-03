@@ -9,8 +9,8 @@ const experienceContent = [
   },
   {
     year: "NOV 2021 - APRIL 2022",
-    position: "Blokchain Developer",
-    compnayName: "Reshift Studio",
+    position: "Smart Contract Developer",
+    compnayName: "Ecio.space",
     details: `Responsibility: Develop, test and implement Smart Contracts such as
     ERC20, ERC721 and ERC1155 and Staking Token, Staking NFT and
     Gachapon. Development of technical specifications and plans`,
@@ -19,27 +19,23 @@ const experienceContent = [
     year: "MAY 2022 - JULY 2022",
     position: "Full-stack Developer",
     compnayName: "Multiverse Expert",
-    details: `Develop and test Smart Contract by using Solidity ,
-    Hardhat and Etherjs. Identify and resolve web development issues
-    reported by clients.`,
+    details: `Developed and maintained dynamic, 
+    responsive web applications using React.js and Next.js.`,
   },
   {
     year: "AUG 2022 - DEC 2023",
-    position: "Blockchain Developer",
+    position: "Fullstack Developer",
     compnayName: "Echoplus Co., Ltd.",
-    details: `Responsibility: Design, implement new features and develop web
-    applications for company's projects using Solidity, Ethersjs, ReactJs and
-    Nestjs. Building, testing, and maintaining web application and
-    performing comprehensive quality assurance testing`,
+    details: `Built reusable components, ensuring maintainability and scalability.
+Ensured cross-browser compatibility and responsiveness of web applications across multiple devices.
+Managed and optimized MongoDB, including schema design, indexing, and query optimization.
+Utilized TypeScript for type-safe code, enhancing maintainability and reducing runtime errors.`,
   },
   {
     year: "JAN 2024 - JUNE 2024",
-    position: "Blockchain Developer",
-    compnayName: "Echoplus Co., Ltd.",
-    details: `Responsibility: Design, implement new features and develop web
-    applications for company's projects using Solidity, Ethersjs, ReactJs and
-    Nestjs. Building, testing, and maintaining web application and
-    performing comprehensive quality assurance testing`,
+    position: "Fullstack Developer",
+    compnayName: "Globiance Co., Ltd.",
+    details: `Designed and implemented secure, efficient, and scalable components for Globiance DEX projects.`,
   },
 ];
 
