@@ -4,7 +4,7 @@ import Education from "./Education";
 import Experience from "./Experience";
 import PersonalInfo from "./PersonalInfo";
 import Skills from "./Skills";
-import cv from "../../../public/assets/img/cv.webp";
+import cv from "../../../public/assets/img/jirayu.na.png";
 import heroImgMobile from "../../../public/assets/img/hero/img-mobile.jpg";
 import Image from "next/image";
 
@@ -76,14 +76,24 @@ const index = () => {
         <div className="row">
           <div className="col-12">
             <h3 className="text-uppercase pb-5 mb-0 text-start text-sm-center custom-title ft-wt-600">
-              Experience <span>&</span> Education
+              Experience 
             </h3>
           </div>
+
           <div className="col-lg-6 m-15px-tb">
             <div className="resume-box">
               <Experience />
             </div>
           </div>
+          
+          <div className="col-12">
+            <h3 className="text-uppercase pb-5 mb-0 text-start text-sm-center custom-title ft-wt-600">
+              Education 
+            </h3>
+          </div>
+
+          {/*  Experience & Education Splitter */}
+
           <div className="col-lg-6 m-15px-tb">
             <div className="resume-box">
               <Education />

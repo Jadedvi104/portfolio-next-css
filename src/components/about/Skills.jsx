@@ -1,12 +1,13 @@
 import React from "react";
 
 const skillsContent = [
-  { skillClass: "p36", skillPercent: "36", skillName: "HTML" },
+  { skillClass: "p36", skillPercent: "70", skillName: "HTML" },
   { skillClass: "p80", skillPercent: "80", skillName: "TYPESCRIPT" },
-  { skillClass: "p40", skillPercent: "40", skillName: "CSS" },
-  { skillClass: "p85", skillPercent: "85", skillName: "SOLIDITY" },
-  { skillClass: "p65", skillPercent: "65", skillName: "NODEJS" },
-  { skillClass: "p72", skillPercent: "72", skillName: "REACT" },
+  { skillClass: "p40", skillPercent: "75", skillName: "CSS" },
+  { skillClass: "p65", skillPercent: "65", skillName: "NESTJS" },
+  { skillClass: "p72", skillPercent: "72", skillName: "REACTJS" },
+  { skillClass: "p72", skillPercent: "76", skillName: "NEXTJS" },
+  { skillClass: "p85", skillPercent: "63", skillName: "SOLIDITY" },
 ];
 
 const Skills = () => {
